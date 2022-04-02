@@ -21,5 +21,8 @@
   "homepage": "https://github.com/backkit/koa-authorize#readme",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.2"
   }
 }
