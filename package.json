@@ -23,6 +23,7 @@
     "access": "public"
   },
   "dependencies": {
-    "inquirer": "^8.2.2"
+    "inquirer": "^8.2.2",
+    "js-yaml": "^3.14.1"
   }
 }
