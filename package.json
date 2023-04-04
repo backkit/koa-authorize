@@ -23,7 +23,6 @@
     "access": "public"
   },
   "dependencies": {
-    "inquirer": "^8.2.2",
-    "js-yaml": "^3.14.1"
+    "@backkit/autoconf": "^0.1.1"
   }
 }
